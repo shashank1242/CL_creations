@@ -1,4 +1,4 @@
-#CL_creations 🚀
+# CL_creations 🚀
 Empowering small businesses with automated, zero-hassle website generation.
 
 Getting a business online shouldn't require a degree in computer science or a massive budget. CL_creations is an automated web-creation tool designed specifically for small business owners. It takes basic business information and automatically generates, configures, and deploys a fully functional, modern website in minutes.
@@ -18,10 +18,10 @@ Roadmap
 
 Contributing
 
-#🎯 About the Project
+# 🎯 About the Project
 Small businesses often struggle with the technical barrier to entry when establishing an online presence. CL_creations bridges this gap by automating the heavy lifting of web development. Whether it's a local bakery, a freelance consultant, or a boutique shop, this tool spins up tailored, responsive, and SEO-friendly landing pages so owners can focus on what they do best: running their business.
 
-#✨ Key Features
+# ✨ Key Features
 Automated Site Generation: Instantly build websites based on a simple input configuration (JSON/CSV).
 
 Responsive Templates: Mobile-first designs that look great on any device.
@@ -32,7 +32,7 @@ Zero-Touch Deployment: Streamlined pushing to hosting platforms (e.g., Vercel, N
 
 Custom Branding: Easily inject custom logos, color palettes, and typography.
 
-#🛠️ Tech Stack
+# 🛠️ Tech Stack
 (Note: Update these with your actual technologies!)
 
 Frontend: React / Next.js / Tailwind CSS
@@ -43,7 +43,7 @@ Deployment: GitHub Actions / Vercel API
 
 Database/Storage: MongoDB / PostgreSQL
 
-#🚀 Getting Started
+# 🚀 Getting Started
 Follow these instructions to get a local copy of CL_creations up and running on your machine.
 
 Prerequisites
@@ -83,7 +83,7 @@ Bash
 python generate_site.py --config ./data/bakery_business.json
 The script will output the compiled website files into the /dist folder and provide a local preview link.
 
-#🗺️ Roadmap
+# 🗺️ Roadmap
 [x] Basic template generation
 
 [x] Mobile responsiveness
@@ -94,7 +94,7 @@ The script will output the compiled website files into the /dist folder and prov
 
 [ ] AI-powered copywriting for "About Us" and "Services" sections
 
-#🤝 Contributing
+# 🤝 Contributing
 Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the Project
