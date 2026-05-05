@@ -9,7 +9,7 @@ import time
 import urllib.parse
 
 # --- Configuration ---
-phone_numbers = ["+918050767472"]  # Replace with actual numbers
+phone_numbers = []  # Replace with actual numbers
 message = "Hello! This is an automated message."
 
 options = webdriver.ChromeOptions()
